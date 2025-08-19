@@ -1,2 +1,2 @@
 # Digital-clock
-Using Java Script build up smart clock timer
+A Digital Smart Clock Timer built with HTML, CSS, and JavaScript, featuring a real-time clock, date, stopwatch, and countdown timer.
